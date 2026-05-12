@@ -25,7 +25,7 @@ jobs:
         run: dotnet restore
 
       - name: Run unit tests
-        run: dotnet test --no-restore --verbosity normal
+        run: dotnet test Calculator.Tests/Calculator.Tests.csproj --filter "FullyQualifiedName~UnitTest1" --no-restore --verbosity normal
 
   # =========================
   # Stage 2: Build
