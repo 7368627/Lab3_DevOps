@@ -101,3 +101,4 @@ D:\ВУЗ\5 курс\2й семестр\Методи управління риз
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.pdb
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.genruntimeconfig.cache
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator.Tests\obj\Debug\net10.0\ref\Calculator.Tests.dll
+D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator.Tests\obj\Debug\net10.0\Calculator.Tests.sourcelink.json

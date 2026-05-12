@@ -12,3 +12,4 @@ D:\ВУЗ\5 курс\2й семестр\Методи управління риз
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator\bin\Debug\net10.0\Calculator.exe
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
 D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+D:\ВУЗ\5 курс\2й семестр\Методи управління ризиками та якісними\CiCdLab\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json

@@ -7,6 +7,6 @@ public class SmokeTest
     [Fact]
     public void Application_Should_StartSuccessfully()
     {
-        Assert.Equal(1, 1);
+        Assert.Equal(5, 2);
     }
 }
