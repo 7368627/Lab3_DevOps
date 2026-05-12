@@ -7,7 +7,7 @@ namespace Calculator.Tests
         [Fact(DisplayName = "SmokeTest_VerifyOneEqualsOne")]
         public void SmokeTest_VerifyOneEqualsOne()
         {
-            Assert.Equal(1, 1);
+            Assert.Equal(15, 1);
         }
 
         [Fact(DisplayName = "SmokeTest_CanAddNumbers")]
@@ -15,7 +15,7 @@ namespace Calculator.Tests
         {
             var calc = new CalculatorClass();
             var result = calc.Add(1, 2);
-            Assert.Equal(3, result);
+            Assert.Equal(15, result);
         }
     }
 }
